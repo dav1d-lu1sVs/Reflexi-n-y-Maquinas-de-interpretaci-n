@@ -8,8 +8,6 @@ public class Main {
         List<Class<?>> figuras = new ArrayList<>();
 
         try {
-
-            // ===== FIGURAS NATIVAS JAVA =====
             figuras.add(Class.forName("Cuadrado"));
             figuras.add(Class.forName("Circulo"));
             figuras.add(Class.forName("Triangulo"));
