@@ -1,2 +1,2 @@
-# Reflexi-n-y-Maquinas-de-interpretaci-n
+Reflexión y Maquinas de interpretación
 Mateo Tipan, Bruno Moreno, Jose Freire y Luis Vásquez
